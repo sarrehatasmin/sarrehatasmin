@@ -25,7 +25,7 @@
 <a href = 'https://github.com/sarrehatasmin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarrehatasmin&show_icons=true&locale=en&layout=compact" alt="rikta" /></p>
-
+<p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarrehatasmin&show_icons=true&locale=en" alt="rikta" /></p>
 
 
