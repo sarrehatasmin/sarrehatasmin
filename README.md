@@ -8,6 +8,35 @@ I'm an AI researcher passionate about developing robust, interpretable, and clin
 
 Currently, I work on integrating Vision-Language Models (VLMs), Large Language Models (LLMs), and multimodal learning to improve AI-assisted clinical decision support systems. My previous research includes medical image super-resolution using Kolmogorov-Arnold Networks (KAN), CycleGAN-based cross-domain medical image translation, explainable AI, and privacy-preserving federated learning.
 
+
+## 🔬 Research Interests
+
+* Medical Image Analysis * Computer Vision * Vision-Language Models (VLMs) * Large Language Models (LLMs) * Generative AI & Diffusion Models * Image Super-Resolution * Federated Learning * Explainable & Trustworthy AI * AI for Healthcare
+
+## 📌 Current Projects
+
+* Medical image super-resolution using KAN-based architectures
+* Multimodal AI for clinical image and report understanding
+* Federated learning under domain shifts
+
+## 🌱 Currently Learning
+
+* Advanced Vision-Language Models
+* Large Language Models
+* Foundation Models for Healthcare
+* Multimodal AI Systems
+* AI Safety & Trustworthy Machine Learning
+
+## 🤝 Collaboration
+
+I'm always interested in collaborating on research related to:
+
+* AI for Healthcare
+* Medical Imaging
+* Computer Vision
+* Multimodal Learning
+* Trustworthy and Explainable AI
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
@@ -30,82 +59,6 @@ Currently, I work on integrating Vision-Language Models (VLMs), Large Language M
     <img src="https://img.shields.io/badge/CV-F8FAFC?style=for-the-badge&logo=readthedocs&logoColor=2563EB"/>
   </a>
 </p>
-
-## 👩‍💻 About Me
-
-🔬 Research Assistant @ <a href="https://YOUR_ELITE_LAB_WEBSITE.com"><b>Elite Lab</b></a>
-
-🤝 Collaborative Researcher @ <a href="https://guardora.ai/"><b>Guardora</b></a>
-
-🎓 M.Sc. Candidate @ <a href="https://lily.sunmoon.ac.kr/MainDefault.aspx"><b>Sun Moon University</b></a>
-
-## 🔬 Research Interests
-
-* Medical Image Analysis
-* Computer Vision
-* Vision-Language Models (VLMs)
-* Large Language Models (LLMs)
-* Generative AI & Diffusion Models
-* Image Super-Resolution
-* Federated Learning
-* Explainable & Trustworthy AI
-* AI for Healthcare
-
----
-
-## 💻 Technical Skills
-
-**Languages:** Python, C, C++, Java, JavaScript
-
-**Machine Learning:** PyTorch, TensorFlow, Scikit-learn
-
-**Research Areas:** Deep Learning, Computer Vision, Generative Models, Explainable AI (XAI), Model Optimization, Medical Imaging
-
-**Tools:** Git, GitHub, Docker, LaTeX
-
----
-
-## 📌 Current Projects
-
-* Medical image super-resolution using KAN-based architectures
-* Multimodal AI for clinical image and report understanding
-* Vision-Language Models for healthcare applications
-* Federated learning under domain shifts
-* Robust and trustworthy AI systems
-
----
-
-## 📚 Publications
-
-Author and co-author of multiple peer-reviewed publications in Elsevier, Wiley, and SCIE/Scopus-indexed journals covering:
-
-* Medical image analysis
-* Explainable AI
-* Healthcare machine learning
-* Medical image super-resolution
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Vision-Language Models
-* Large Language Models
-* Foundation Models for Healthcare
-* Multimodal AI Systems
-* AI Safety & Trustworthy Machine Learning
-
----
-
-## 🤝 Collaboration
-
-I'm always interested in collaborating on research related to:
-
-* AI for Healthcare
-* Medical Imaging
-* Computer Vision
-* Multimodal Learning
-* Trustworthy and Explainable AI
-
 Feel free to connect, discuss research ideas, or collaborate on open-source AI projects!
 ┌───────────────────────────────────────────────┐
 │            Custom Medical AI Banner           │
