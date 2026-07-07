@@ -10,34 +10,16 @@ Currently, I work on integrating Vision-Language Models (VLMs), Large Language M
 
 
 ## Research Interests
-
-* Medical Image Analysis * Computer Vision * Vision-Language Models (VLMs) * Large Language Models (LLMs) * Generative AI & Diffusion Models * Image Super-Resolution * Federated Learning * Explainable & Trustworthy AI * AI for Healthcare
-
+ Medical Image Analysis • Computer Vision • Vision-Language Models (VLMs) • Large Language Models (LLMs) • Generative AI & Diffusion Models • Image Super-Resolution • Federated Learning • Explainable & Trustworthy AI 
+ 
 ## Current Projects
 
 * Medical image super-resolution using KAN-based architectures
 * Multimodal AI for clinical image and report understanding
 * Federated learning under domain shifts
 
-##  Currently Learning
+##  Connect with Me 
 
-* Advanced Vision-Language Models
-* Large Language Models
-* Foundation Models for Healthcare
-* Multimodal AI Systems
-* AI Safety & Trustworthy Machine Learning
-
-## Collaboration
-
-I'm always interested in collaborating on research related to:
-
-* AI for Healthcare
-* Medical Imaging
-* Computer Vision
-* Multimodal Learning
-* Trustworthy and Explainable AI
-
-##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
     <img src="https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
@@ -60,12 +42,3 @@ I'm always interested in collaborating on research related to:
   </a>
 </p>
 
-
-💬 Quote
-
-"Building trustworthy AI for real-world healthcare."
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
