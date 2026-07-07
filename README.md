@@ -1,7 +1,49 @@
 ## Hi there 👋, I'm Sarreha Tasmin Rikta 
+I am an AI researcher with a strong interest in developing trustworthy and intelligent systems for healthcare. My research focuses on computer vision, medical image analysis, generative AI, vision-language models, and multimodal learning, with an emphasis on building robust, explainable, and clinically relevant AI solutions. I enjoy exploring challenging research problems and translating them into practical, open-source implementations.
+<p align="center">
+  <a href="mailto:tasmin.sarreha@gmail.com">Email</a> |
+  <a href="YOUR_CV_LINK">CV</a> |
+  <a href="YOUR_BIO_LINK">Bio</a> |
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Scholar</a> |
+  <a href="https://twitter.com/YOUR_USERNAME">Twitter</a> |
+  <a href="https://github.com/sarrehatasmin">GitHub</a>
+</p>
+
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=007ACC&center=true&vCenter=true&width=1200&lines=AI+Researcher+%7C+Medical+Imaging+%7C+Computer+Vision+%7C+VLMs+%7C+LLMs+%7C+Generative+AI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:tasmin.sarreha@gmail.com">Email</a> |
+  <a href="YOUR_CV_LINK">CV</a> |
+  <a href="YOUR_BIO_LINK">Bio</a> |
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Scholar</a> |
+  <a href="https://twitter.com/YOUR_USERNAME">Twitter</a> |
+  <a href="https://github.com/sarrehatasmin">GitHub</a>
+</p>
+
+##  About Me
+
+🔬 Research Assistant @ Elite Lab (USA)
+
+🤝 Collaborative Researcher @ Guardora (Spain)
+
+🎓 M.Sc. in Information & Communication Engineering @ Sun Moon University, South Korea
+
+## 📚 Selected Publications
+
+- SR-KAN: Improving Cross-Domain Robustness in Dermoscopic Super-Resolution (Accepted)
+- Explainable Machine Learning for Phishing Site Detection (Wiley)
+- XML-GBM Lung: Explainable Lung Cancer Diagnosis (Elsevier)
+- View all publications on Google Scholar
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarrehatasmin&show_icons=true"/>
 </p>
 
 I'm an AI researcher passionate about developing robust, interpretable, and clinically relevant machine learning solutions for healthcare. My work focuses on deep learning, computer vision, and generative models, with particular interest in medical image analysis, image super-resolution, multimodal AI, and federated learning.
