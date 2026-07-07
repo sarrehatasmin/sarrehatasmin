@@ -9,17 +9,17 @@ I'm an AI researcher passionate about developing robust, interpretable, and clin
 Currently, I work on integrating Vision-Language Models (VLMs), Large Language Models (LLMs), and multimodal learning to improve AI-assisted clinical decision support systems. My previous research includes medical image super-resolution using Kolmogorov-Arnold Networks (KAN), CycleGAN-based cross-domain medical image translation, explainable AI, and privacy-preserving federated learning.
 
 
-## 🔬 Research Interests
+## Research Interests
 
 * Medical Image Analysis * Computer Vision * Vision-Language Models (VLMs) * Large Language Models (LLMs) * Generative AI & Diffusion Models * Image Super-Resolution * Federated Learning * Explainable & Trustworthy AI * AI for Healthcare
 
-## 📌 Current Projects
+## Current Projects
 
 * Medical image super-resolution using KAN-based architectures
 * Multimodal AI for clinical image and report understanding
 * Federated learning under domain shifts
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * Advanced Vision-Language Models
 * Large Language Models
@@ -27,7 +27,7 @@ Currently, I work on integrating Vision-Language Models (VLMs), Large Language M
 * Multimodal AI Systems
 * AI Safety & Trustworthy Machine Learning
 
-## 🤝 Collaboration
+## Collaboration
 
 I'm always interested in collaborating on research related to:
 
@@ -37,7 +37,7 @@ I'm always interested in collaborating on research related to:
 * Multimodal Learning
 * Trustworthy and Explainable AI
 
-## 🌐 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
     <img src="https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
@@ -59,127 +59,13 @@ I'm always interested in collaborating on research related to:
     <img src="https://img.shields.io/badge/CV-F8FAFC?style=for-the-badge&logo=readthedocs&logoColor=2563EB"/>
   </a>
 </p>
-Feel free to connect, discuss research ideas, or collaborate on open-source AI projects!
-┌───────────────────────────────────────────────┐
-│            Custom Medical AI Banner           │
-│      (Generated specifically for you)         │
-└───────────────────────────────────────────────┘
 
-👋 Hi, I'm Sarreha Tasmin Rikta
-
-Animated typing:
-AI Researcher | Medical Imaging | VLMs | LLMs |
-Computer Vision | Generative AI
-
-------------------------------------------------
-
-📫 Connect
-LinkedIn • Google Scholar • ORCID • Email • CV
-
-------------------------------------------------
-
-👩‍💻 About Me
-
-Research Assistant @ Elite Lab
-Researcher @ Guardora
-M.Sc. @ Sun Moon University
-
-• Medical AI
-• Computer Vision
-• Vision-Language Models
-• Federated Learning
-• Trustworthy AI
-
-------------------------------------------------
-
-🔬 Current Research
-
-🩺 Medical Image Analysis
-🧠 Vision-Language Models
-📷 Image Super Resolution
-🧬 Medical Foundation Models
-🤖 Multimodal AI
-🔒 Federated Learning
-
-------------------------------------------------
-
-🛠 Tech Stack
-
-Python
-PyTorch
-TensorFlow
-Docker
-Git
-OpenCV
-Scikit-Learn
-CUDA
-LaTeX
-Linux
-
-(with beautiful icons)
-
-------------------------------------------------
-
-📊 GitHub Statistics
-
-Contribution Graph
-Top Languages
-GitHub Stats
-Streak Stats
-GitHub Trophies
-
-------------------------------------------------
-
-📚 Publications
-
-Elsevier
-Wiley
-KIPS
-Journal of Engineering
-etc.
-
-------------------------------------------------
-
-🚀 Featured Projects
-
-SR-KAN
-CycleGAN
-Medical VLM
-Phishing Detection
-Federated Learning
-
-(with project cards)
-
-------------------------------------------------
-
-📈 Research Metrics
-
-Papers
-Citations
-H-index
-Projects
-
-------------------------------------------------
 
 💬 Quote
 
 "Building trustworthy AI for real-world healthcare."
 
-------------------------------------------------
 
-Visitor Counter
-
-<!--
-**sarrehatasmin/sarrehatasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
