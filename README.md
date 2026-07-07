@@ -31,15 +31,35 @@ Currently, I work on integrating Vision-Language Models (VLMs), Large Language M
   </a>
 </p>
 
-📧 **Email:** [tasmin.sarreha@gmail.com](mailto:tasmin.sarreha@gmail.com)
+## 👩‍💻 About Me
 
-💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username/
+🔬 Research Assistant @ <a href="https://YOUR_ELITE_LAB_WEBSITE.com"><b>Elite Lab</b></a>
 
-🎓 **Google Scholar:** https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID
+🤝 Collaborative Researcher @ <a href="https://guardora.ai/"><b>Guardora</b></a>
 
-💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+🎓 M.Sc. Candidate @ <a href="https://lily.sunmoon.ac.kr/MainDefault.aspx"><b>Sun Moon University</b></a>
+## 👩‍💻 About Me
 
----
+<table>
+<tr>
+<td>🔬</td>
+<td><strong>Research Assistant</strong></td>
+<td><a href="https://YOUR_ELITE_LAB_WEBSITE.com">Elite Lab</a></td>
+</tr>
+
+<tr>
+<td>🤝</td>
+<td><strong>Collaborative Researcher</strong></td>
+<td><a href="https://guardora.ai/">Guardora</a></td>
+</tr>
+
+<tr>
+<td>🎓</td>
+<td><strong>M.Sc. Candidate</strong></td>
+<td><a href="https://lily.sunmoon.ac.kr/MainDefault.aspx">Sun Moon University</a></td>
+</tr>
+
+</table>
 
 ## 🔬 Research Interests
 
