@@ -38,28 +38,6 @@ Currently, I work on integrating Vision-Language Models (VLMs), Large Language M
 🤝 Collaborative Researcher @ <a href="https://guardora.ai/"><b>Guardora</b></a>
 
 🎓 M.Sc. Candidate @ <a href="https://lily.sunmoon.ac.kr/MainDefault.aspx"><b>Sun Moon University</b></a>
-## 👩‍💻 About Me
-
-<table>
-<tr>
-<td>🔬</td>
-<td><strong>Research Assistant</strong></td>
-<td><a href="https://YOUR_ELITE_LAB_WEBSITE.com">Elite Lab</a></td>
-</tr>
-
-<tr>
-<td>🤝</td>
-<td><strong>Collaborative Researcher</strong></td>
-<td><a href="https://guardora.ai/">Guardora</a></td>
-</tr>
-
-<tr>
-<td>🎓</td>
-<td><strong>M.Sc. Candidate</strong></td>
-<td><a href="https://lily.sunmoon.ac.kr/MainDefault.aspx">Sun Moon University</a></td>
-</tr>
-
-</table>
 
 ## 🔬 Research Interests
 
