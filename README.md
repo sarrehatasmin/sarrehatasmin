@@ -5,6 +5,6 @@ I am an AI researcher with a strong interest in developing trustworthy and intel
   <a href="YOUR_CV_LINK">CV</a> |
   <a href="YOUR_BIO_LINK">Bio</a> |
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Scholar</a> |
-  <a href="https://twitter.com/YOUR_USERNAME">Twitter</a> |
-  <a href="https://github.com/sarrehatasmin">GitHub</a>
+  <a href="https://www.linkedin.com/in/sarreha-tasmin/">LinkedIn</a> |
+  <a href="https://orcid.org/my-orcid?orcid=0000-0002-2862-5059">ORCID</a>
 </p>
